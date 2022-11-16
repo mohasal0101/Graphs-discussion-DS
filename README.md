@@ -39,3 +39,11 @@ where G is the connected graph.
 ```
 ### Difference between Graph and Tree:
 In the programming world, trees and graphs are important factors and depict nonlinear data. A tree is an exceptional case of a graph which does not loop whereas graphs can have loops. Both graph and tree share some common features but they do have some differences. Let’s explore the differences between tree and graph.
+
+## What is a Tree?
+
+In the computer science world, a tree is renowned as a hierarchical and nonlinear data structure that directly stores data in a hierarchical manner.
+
+## What is Graph?
+
+In the computer science world, a graph is popular as a non-linear data structure that is generally used to depict the flow of computation. It is also connected by nodes and edges.
