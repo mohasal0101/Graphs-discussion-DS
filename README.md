@@ -37,3 +37,5 @@ Notation used:
 d(G)
 where G is the connected graph.
 ```
+### Difference between Graph and Tree:
+In the programming world, trees and graphs are important factors and depict nonlinear data. A tree is an exceptional case of a graph which does not loop whereas graphs can have loops. Both graph and tree share some common features but they do have some differences. Let’s explore the differences between tree and graph.
